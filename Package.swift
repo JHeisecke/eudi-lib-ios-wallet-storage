@@ -14,7 +14,7 @@ let package = Package(
             targets: ["WalletStorage"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/apple/swift-log.git", from: "1.5.3"),
+        .package(url: "https://github.com/JHeisecke/swift-log.git", branch: "fix/swift-6.2-library-evolution-inlinable"),
 		.package(url: "https://github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-data-model.git", from: "0.11.0"),
 		],
     targets: [
