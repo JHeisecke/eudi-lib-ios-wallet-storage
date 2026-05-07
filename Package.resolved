@@ -7,7 +7,7 @@
       "location" : "https://github.com/JHeisecke/eudi-lib-ios-iso18013-data-model.git",
       "state" : {
         "branch" : "main",
-        "revision" : "dc2399601920e5d712f9db1d54caa153ad04654f"
+        "revision" : "03a5d0a7c5ae786ce83237e38b327e6779816ba3"
       }
     },
     {
@@ -16,7 +16,7 @@
       "location" : "https://github.com/JHeisecke/swift-collections.git",
       "state" : {
         "branch" : "main",
-        "revision" : "77e99ff65ab12b3c2cd4f64b875965209f133d4c"
+        "revision" : "53eabd584381ca5bf83adae39c15169d27bd844b"
       }
     },
     {
@@ -40,10 +40,10 @@
     {
       "identity" : "swiftcbor",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/niscy-eudiw/SwiftCBOR.git",
+      "location" : "https://github.com/JHeisecke/SwiftCBOR.git",
       "state" : {
-        "revision" : "a663e7a6bd50d2224223ed60622b531b18499dd0",
-        "version" : "0.6.4"
+        "branch" : "master",
+        "revision" : "524c2b1d5db8daf3b5a2cfcd838dbe24a4b07757"
       }
     },
     {
