@@ -1,5 +1,5 @@
 {
-  "originHash" : "7d094359deb33b58ded0e370e616e5e668ef0e13f05d9fb380ce5f27d3146061",
+  "originHash" : "c2736fabdb11828e6bcf605a8647b30ccadbe4a953ae060309ebee551fa02fe5",
   "pins" : [
     {
       "identity" : "eudi-lib-ios-iso18013-data-model",
@@ -13,10 +13,10 @@
     {
       "identity" : "swift-collections",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-collections.git",
+      "location" : "https://github.com/JHeisecke/swift-collections.git",
       "state" : {
-        "revision" : "6675bc0ff86e61436e615df6fc5174e043e57924",
-        "version" : "1.4.1"
+        "branch" : "main",
+        "revision" : "77e99ff65ab12b3c2cd4f64b875965209f133d4c"
       }
     },
     {
